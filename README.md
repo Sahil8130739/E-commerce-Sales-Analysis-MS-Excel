@@ -1,12 +1,14 @@
 # E-commerce-Sales-Analysis-MS-Excel
-This is Mine MS Excel Project.
+This is my MS Excel Project.
 <br>
-In this Project I have done Analysis of Annual Sales of an Store Named As Vrinda Store, I have Done Data Cleaning, Data Processing and Data Analysis of Annual Sales Report of this Store in 2025.
+In this Project, I have done an Analysis of the Annual Sales of a Store Named Vrinda Store.
 <br>
-After that I have done Visualization of Data in Terms of Column Chart, Pie Chart, Bar Chart and Combo of Column Chart and Line Chart.
+I have Done Data Cleaning, Data Processing, and Data Analysis of the Annual Sales Report of this Store in 2025.
 <br>
-I have Also Used Three Slicer to Get the Relevant Data According to Situation in Which I have Included Month Slicer, Category Slicer and Channel Slicer( i.e. E commerce platform ) to show the Varilety of Result.
+After that, I have done Visualization of Data in Terms of Column Chart, Pie Chart, Bar Chart, and Combo of Column Chart and Line Chart.
 <br>
-I have Given Insights of Data and Also the Final Conclusion Through Which Vrinda Store Can Increase Their Sales.
+I have Also Used Three Slicer to get the Relevant Data According to the Situation, in which I have included Month Slicer, Category Slicer, and Channel Slicer( i.e. E e-commerce platform ) to show the Variety of results.
+<br>
+I have Given Insights into Data and also the Final Conclusion Through Which Vrinda Store Can Increase its sales.
 <br>
 Author- Sahil
