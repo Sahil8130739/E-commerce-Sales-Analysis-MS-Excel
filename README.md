@@ -3,9 +3,11 @@ This is my MS Excel Project.
 <br>
 In this Project, I have done an Analysis of the Annual Sales of a Store Named Vrinda Store.
 <br>
-I have Done Data Cleaning, Data Processing, and Data Analysis of the Annual Sales Report of this Store in 2025.
+I have Created an insightful dashboard for Vrinda Store Annual Sales 2025 by analysing 8 product categories' growth trends using pivot table.
 <br>
-After that, I have done Visualization of Data in Terms of Column Chart, Pie Chart, Bar Chart, and Combo of Column Chart and Line Chart.
+I have Done Data Cleaning, Data Processing, and Data Analysis of the Annual Sales Report of this Store by Add in Accomplish sales of Top 5 States in 2025.
+<br>
+After that, I have done Visualization of Data by Incorporated Clustred Column Chart, Pie Chart, Bar Chart, and Combo of Column Chart and Line Chart.
 <br>
 I have Also Used Three Slicer to get the Relevant Data According to the Situation, in which I have included Month Slicer, Category Slicer, and Channel Slicer( i.e. E e-commerce platform ) to show the Variety of results.
 <br>
